@@ -31,7 +31,10 @@ To view the project locally, you can either open the project files in your code 
 ### Tasks
 
 Inside `index.html`:
-- [ ] Update the HTML tags so that they are correct and semantic
+- [X] Update the HTML tags so that they are correct and semantic
+- [X] Fork the repo
+- [X] Clone to local computer
+
 
 
 ### Tips
